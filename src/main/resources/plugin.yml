@@ -1,0 +1,6 @@
+name: EssentialPets
+version: '${project.version}'
+main: me.karltroid.essentialpets.EssentialPets
+api-version: 1.19
+authors: [ Karltroid ]
+description: Mobs with nametags cannot be killed (with a few exceptions)
